@@ -63,7 +63,7 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
     val nav_version = "2.8.9"
     implementation("androidx.navigation:navigation-compose:$nav_version")
-
+    implementation ("org.mozilla:rhino:1.7.13")
 
 
 }
